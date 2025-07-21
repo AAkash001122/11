@@ -111,6 +111,12 @@ a {
   box-shadow: var(--box-shadow);
 }
 
+.custom-image {
+  width: 80%;       /* Image takes 80% of the parent container's width */
+  height: auto;     /* Maintain aspect ratio */
+  object-fit: contain;
+}
+
 /* .right {
   width: 80%;
 

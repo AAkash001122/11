@@ -17,9 +17,16 @@ const Contact = () => {
         <a href="https://www.linked.com" target='_black' className='items'>
           <CiLinkedin className='icons' />
         </a>
-        <a href="mailto:akr256181@gmail.com" target="_blank" className='items'>
+       <a 
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=akr256181@gmail.com" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className='items'
+>
   <BiLogoGmail className='icons' />
 </a>
+
+
 
 
         <a href="https://www.github.com" target='_black' className='items'>
