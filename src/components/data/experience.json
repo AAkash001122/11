@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "role": "Web Devloper",
+    "organisation": "Innovative Data Solution",
+    "startDate": "April, 2021",
+    "endDate": "Dec 2021",
+    "location": "Mumbai",
+    "experiences": [
+      "Website Devloper"
+    ],
+    "imageSrc": "company/image.png"
+  },
+  {
+    "id": 2,
+    "role": "Web Devloper",
+    "organisation": "Team at It",
+    "startDate": "Jan, 2022",
+    "endDate": "Aug, 2023",
+    "location": "Mumbai",
+    "experiences": [
+      "Website Devloper",
+      "Share Marketing"
+    ],
+    "imageSrc": "company/it.png"
+  },
+  {
+    "id": 3,
+    "role": "Web Devloper",
+    "organisation": "Softkey Education",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "location": "Mumbai",
+    "experiences": [
+      "Website Design",
+      "Helped to create UI for video player"
+    ],
+    "imageSrc": "company/softkey.png"
+  }
+]
