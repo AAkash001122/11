@@ -8,7 +8,7 @@ const Home = () => {
   useEffect(() => {
     const options = {
       strings: [
-        "Welcome to my Profile","My Name is Akashkumar Singh","I am Full Mern Stack Devloper",
+        "Welcome to my Profile","My Name is Akash Singh ","I am Full Mern Stack Devloper",
       ],
       typeSpeed: 50,
       backSpeed: 50,
