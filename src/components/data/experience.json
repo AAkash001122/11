@@ -1,13 +1,14 @@
 [
   {
     "id": 1,
-    "role": "Web Devloper",
+    "role": "Web Devloper",    
     "organisation": "Innovative Data Solution",
     "startDate": "April, 2021",
     "endDate": "Dec 2021",
     "location": "Mumbai",
     "experiences": [
-      "Website Devloper"
+      "Website Devloper",
+      "LMS e-learning platform"
     ],
     "imageSrc": "company/image.png"
   },
